@@ -1,0 +1,8 @@
+{
+  "label": "POO - Les ABC",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Les ABC de la POO en Python"
+  }
+}
