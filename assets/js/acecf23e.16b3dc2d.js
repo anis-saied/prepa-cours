@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkd=globalThis.webpackChunkd||[]).push([[1903],{1912(s){s.exports=JSON.parse('{"blogBasePath":"/prepa-cours/blog","blogTitle":"Blog","authorsListPath":"/prepa-cours/blog/authors"}')}}]);
